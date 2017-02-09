@@ -5,7 +5,7 @@ This document aims to provide standard definitions of event formats to be used a
 Last update: 09/02/2017
 
 Name | Role of the Facilitator | Participation Format | Goal/Output
-=== | === | === | ===
+--- | --- | --- | ---
 workshop | steering of discussion working groups | small group work | discovering, working on or learning about a topic interactively
 training | teaching participants through tasks | class format | acquiring a specific knowledge or skill
 data expedition | steering of working groups | small group work | exploring topical data and learning about methodology
