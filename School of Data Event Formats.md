@@ -13,3 +13,6 @@ data & drinks | coordination of the speakers | speaker/audience | inspiration an
 conference | coordination of the speakers | speaker/audience | inspiration and awareness through topical talks; networking
 hackathon | coordination and support of working groups | small group work | prototyping of data tools
 sprint | steering of working groups | small group work | produce a concrete deliverable in a short amount of time
+dataquest | facilitation of the groups | small group work | identify story angles from given datasets and proposal ways of developing these stories further
+bootcamp | training participants | class format | a multi day series of training sessions designed for participants to have a practical and theoretical understanding of the subject matter by the end of the camp
+masterclass | training participants | class format | deep dive into a specific subject matter. Targetted at intermediate to advanced users, wishing to further develop their skills
